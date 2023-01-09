@@ -112,7 +112,7 @@ void main(){
             case 6:printf("\n\n***********************************  Terminating the program  ***********************************\n\n");
             exit(0);
             break;
-            default:printf("\nError: Enter valid choice!");
+            default:printf("\nError: Enter valid choice!\n");
             break;
         }
     }
